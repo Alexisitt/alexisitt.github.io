@@ -35,8 +35,8 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://alexisitt.github.io"   #change this to yours
-title: Munchies # site's title
-description: A refuge for the all the notes, notions and nonsense from yours truly... with a selection of recipes to spice things up a bit!  # used by search engines
+title: Munchies & Musings # site's title
+description: A refuge for the all the notes, notions and nonsense of a publishing student... with a selection of recipes to spice things up a bit!  # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
