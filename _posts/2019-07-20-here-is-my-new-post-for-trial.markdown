@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Here is a sample blog post
+title: La Mort Du Livre?
 date: 2019-10-19
 published: true
-header_feature_image: _uploads/tomatoes.jpg
+header_feature_image: _uploads/logo1.jpg
 caption: "Juicy Tomatoes"
 tags:
   - Journalism
