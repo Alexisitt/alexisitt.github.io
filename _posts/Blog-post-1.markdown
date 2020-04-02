@@ -2,48 +2,20 @@
 layout: post
 title: La Mort Du Livre?
 date: 2019-10-19
-published: false
+published: true
 header_feature_image:
-caption: "Juicy Tomatoes"
+caption:
 tags:
   - Journalism
   - Life
   - Food
 ---
 
-This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+For many years I have wrestled with the ever-increasing speed at which the internet and its associated technologies have pervaded almost every corner of life, weaving into the fabric of normality with disturbing momentum. Although a child of the late 90’s and to many an undoubtedly fitting representative of the Millennial conglomerate, I have always found myself naturally drawn away from the cerulean lights of an LCD, CRT or OLED. Early years were invariably occupied with stories from the collection of novels shelved around the house, with the possibility of a feature length film reserved to something of a special occasion.
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a _blockquote_.
+It was only once I hit double figures that I begin to renounce my literary upbringing and turn to technology. Inevitably I became enamoured with the world of gadgets, games and endless entertainment that became available to me.
+It is only now that I have begun to notice that my love for certain technologies has been replaced. Replaced by necessity. Much of the joy that was once there has been supplanted by the simple fact that my daily life, internally and externally, relies so heavily on a phone, laptop, tablet or Television. Bizarrely though, just as I found that I relied upon technology to make my life easier, I found that it was doing quite the opposite, both for myself and, it seems, the world.
+Because of this, now more than ever I find myself at odds with the modern world. The speed of progression has left me disproportionately aged; out of touch and unaware as normality shifts with every ‘new’ creation, discovery and improvement. Reflecting on my position I find that mine is one almost entirely unique to my generation - on the periphery of Generation Z and the Instagram Generation. As such, I find myself both outsider and insider, both participant and spectator, leaving both a sense of adoration for the internet and a longing for the childhood bliss of an abundance of books and a lack of social media. I am neither a technophobe nor technophile – I am simply an avid Reader looking to reconcile the benefits of technology with its serious threats to both publishing and to life as a whole that it carries with it. My time as a Publishing student has given me an educated, academic awareness of these issues and has developed my awareness of the disturbing potential of this shift from literacy to digitality.
+It is here, on this blog, that I intend to explore and reflect on the Digital Age, sharing my thoughts on what this ever-changing landscape might mean for the publishing world and for the world in its entirety.
 
-
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
-
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-[![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+[![](/_uploads/the_book_is_dead_668305.jpg)](/_uploads/the_book_is_dead_668305.jpg)
