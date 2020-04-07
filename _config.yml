@@ -35,7 +35,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://alexisitt.github.io"   #change this to yours
-title: Munchies & Musings # site's title
+title: Food For Thought # site's title
 description: A refuge for the all the notes, notions and nonsense of a publishing student... with a selection of recipes to spice things up a bit!  # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: Thoughts and Recipes
+header_text: Food for Though
 
 recipecollection: Your recipe collection
 
