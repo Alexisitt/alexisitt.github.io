@@ -2,7 +2,7 @@
 layout: post
 title: Paper Means Prizes - Do E-books need more recognition for the valuable work they do?
 date: 2019-10-19
-published: true
+published:true
 header_feature_image:
 caption:
 tags:

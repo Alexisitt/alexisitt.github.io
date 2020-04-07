@@ -2,7 +2,7 @@
 layout: post
 title: On Diversity
 date: 2019-10-19
-published: true
+published:true
 header_feature_image:
 caption:
 tags:
