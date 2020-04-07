@@ -1,49 +1,22 @@
 ---
 layout: post
-title: La Mort Du Livre?
+title: On Diversity
 date: 2019-10-19
 published: true
-header_feature_image: 
-caption: "Juicy Tomatoes"
+header_feature_image:
+caption:
 tags:
   - Journalism
   - Life
   - Food
 ---
 
-This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+I was really pleased to learn that Eimear McBride had won the  Bailey’s prize for Fiction for her Joycean tale, “ A Girl is a Half Formed Thing.”
+A stream of conciousness, visceral and disturbing tale of a young woman and her chaotic and exploitative sexual awakening.  I was sitting in the Erpingham Arms, not too far from Norwich, where The Galley Beggar Press publishing house had produced this amazingly original novel, after just about everyone else had turned it down!
+As I sipped my pint of Adnam’s, I began to reflect on “ Girl” and the prizes it had now won: The Goldsmiths prize, The Irish fiction award, and on literary prizes in general. By winning these prizes “ Girl” had shown how an experimental and disconcerting novel by an unheard of author, published by a tiny and obscure provincial press, could appeal to a panel of literary judges. All of these things were surely an inspiration to other previously unheard of authors; to experimental authors; and to small publishers. As well, of course, to
+other marginal, non mainstream writers, such as LGBT, BAME and other disenfranchised groups. There are now many more literary prizes than was the case just some twenty years ago.Everyone knows about The Pulitzer or The Booker. But these were, for the most part, awarded to middle class, middle aged, white authors, who were published by the big names like Bloomsbury, Penguin, Faber and Faber… there was clearly a vacuum. And there was unhappiness about how the prizes were awarded; Julian Barnes’ acerbic “ posh bingo” criticism was just one of many calls for change. The Bailey’s prize is solely for women’s fiction and has hopefully encouraged female writers.There has been an explosion in the literary prizes that are now awarded; a positive plethora of awards now exists and caters for first time authors and many other groups who weren’t catered for by Pulitzer and Booker prizes!
+Personally, I rather like the understated and discrete approach of the Windham-Campbell prize: a rather egalitarian, iconoclastic  and deliberately left field way of allocating a total fund of $ 1.35 million, distributed amongst nine different writers. Each writer is informed by text or e mail; there’s no drum roll, fanfare or expensive glitzy London dinner.
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a _blockquote_.
+Anyway, back to my pint ( now my second ) and to “ A Girl”……
 
-
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
-
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
-
-## Here is a an image
-
-[![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
-
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
-
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
-
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
-
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
-
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
-
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+……I’m hoping that the novel is made into a play and that this is not the only book she ever writes; though how do you better such an opening salvo!?
