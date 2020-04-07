@@ -3,7 +3,7 @@ layout: post
 title: La Mort du Livre?
 date: 2020-04-07 21:23
 published: true
-header_feature_image:
+header_feature_image: _uploads/Essential-Books.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---

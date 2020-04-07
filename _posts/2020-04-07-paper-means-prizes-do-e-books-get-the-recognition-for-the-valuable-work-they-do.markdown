@@ -2,7 +2,7 @@
 layout: post
 title: Paper Means Prizes - Do e-books get the recognition for the valuable work they do?
 date: 2020-04-07 21:34
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]
