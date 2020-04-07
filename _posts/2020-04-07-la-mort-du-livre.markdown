@@ -2,7 +2,7 @@
 layout: post
 title: La Mort du Livre?
 date: 2020-04-07 21:23
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]
