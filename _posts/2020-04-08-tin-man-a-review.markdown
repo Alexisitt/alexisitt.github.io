@@ -2,7 +2,7 @@
 layout: post
 title: Tin Man - A Review
 date: 2020-04-08 16:52
-published: false
+published: true
 header_feature_image: _uploads/TMBANNER.jpg
 caption:
 tags:    # use [tag1,tag2]
