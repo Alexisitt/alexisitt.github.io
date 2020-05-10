@@ -3,7 +3,7 @@ layout: post
 title: A Stroll around Bloomsbury
 date: 2020-05-07 14:37
 published: true
-header_feature_image:
+header_feature_image: _uploads/juddbooks.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
