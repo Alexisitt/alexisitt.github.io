@@ -2,7 +2,7 @@
 layout: post
 title: Reading's Redemption: Could Coronavirus revive print book popularity?
 date: 2020-05-08 11:33
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]

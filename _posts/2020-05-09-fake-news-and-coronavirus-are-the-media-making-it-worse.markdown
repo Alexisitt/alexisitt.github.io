@@ -2,7 +2,7 @@
 layout: post
 title: Fake News and Coronavirus: Are the Media making it Worse?
 date: 2020-05-09 10:20
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]

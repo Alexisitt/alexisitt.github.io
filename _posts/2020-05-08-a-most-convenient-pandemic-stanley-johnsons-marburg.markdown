@@ -2,7 +2,7 @@
 layout: post
 title: A Most Convenient Pandemic: Stanley Johnsons 'Marburg'
 date: 2020-05-08 14:00
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]

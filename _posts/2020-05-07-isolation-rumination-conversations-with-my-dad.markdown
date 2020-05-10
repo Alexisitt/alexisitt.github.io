@@ -2,7 +2,7 @@
 layout: post
 title: Isolation Rumination: Conversations with my Dad
 date: 2020-05-07 14:13
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]

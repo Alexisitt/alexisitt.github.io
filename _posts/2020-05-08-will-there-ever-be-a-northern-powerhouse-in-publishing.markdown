@@ -2,7 +2,7 @@
 layout: post
 title: Will there ever be a 'Northern Powerhouse' in Publishing?
 date: 2020-05-08 13:51
-published: false
+published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]

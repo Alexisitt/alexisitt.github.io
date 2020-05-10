@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on Diversity
 date: 2020-04-07 21:45
 published: true
-header_feature_image:
+header_feature_image:_uploads/diversity-and-inclusion-shutterstock.jpg
 caption:
 tags:    # use [tag1,tag2]
 ---
