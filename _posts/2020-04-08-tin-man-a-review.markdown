@@ -28,7 +28,7 @@ And this is where, one Xmas, Ellis meets and instantly falls in love with Annie.
 All three clearly love each other, but ultimately Annie and Ellis wed and Michael withdraws. Michael immerses himself in the London gay scene; his lover, G, dies of AIDS. In his grief, he returns to the south of France, where he and Ellis had been blissfully happy all those years ago; he sees the sunflower fields that inspired Van Gogh.
 He then returns to Oxford and to Annie and Ellis, only for Annie and Michael to then die in a car crash, leaving Ellis alone and bewildered as to his future…..
 After his cycling accident, some five years after Annie and Michael’s death, Ellis gives up work. He retrieves “The Sunflowers” painting from his father and a box containing Michael’s memoir, which explains his several years absence, whilst looking after G in London.
-After reading Michael’s memoir Ellis realises his route to recovery is to follow the metaphorical yellow brick road
-to Arles for the sunflowers, the light and the memory of who he and Michael might have been, and once were….
+After reading Michael’s memoir Ellis realises his route to recovery is to follow the metaphorical yellow brick road to Arles for the sunflowers, the light and the memory of who he and Michael might have been, and once were….
+
 This is then, ultimately, a love story about two young men falling in love, but also about the ability of three people to all love each other; for gay, bi and heterosexual love to happily coexist, perhaps?
 It is also about grief, loneliness, being true to oneself; about the evolving nature of what being a man means ; about the complex father son relationship, and about hope!
