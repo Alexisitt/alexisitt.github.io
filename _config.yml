@@ -35,8 +35,8 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://alexisitt.github.io"   #change this to yours
-title: Food For Thought # site's title
-description: A refuge for the all the notes, notions and nonsense of a publishing student... with a selection of recipes to spice things up a bit!  # used by search engines
+title:  A Readers Ruminations
+description: A refuge for the all the notes, notions and nonsense of a publishing student and avid book lover... and what books I have been reading!  # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
@@ -51,7 +51,7 @@ recipemenu: false # you can change to true and a menu of all recipes will appear
 
 # Header and footer text
 # Change this text to yourown
-header_text: Some Munchies & Musings
+header_text: Books, Blogs & Babble!
 
 recipecollection: Your recipe collection
 
@@ -67,11 +67,11 @@ footer_text:
   # Icons
   # If you have any of these accounts add them in here
 rss: false  # Make sure you created a feed.xml with feed.xml layout
-email_address: # Full email address, e.g. "sam@example.com"
-facebook:
+email_address: aisittbb@gmail.com
+facebook: Alex Isitt
 flickr:
 google_plus:
-instagram:
+instagram: @alex_isitt
 linkedin:  # Full URL
 pinterest:
 soundcloud:
