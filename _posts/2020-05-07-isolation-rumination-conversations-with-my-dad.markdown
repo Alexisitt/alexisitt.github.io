@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isolation Rumination: Conversations with my Dad
+title: Isolation Rumination - Conversations with my Dad
 date: 2020-05-07 14:13
 published: true
 header_feature_image:

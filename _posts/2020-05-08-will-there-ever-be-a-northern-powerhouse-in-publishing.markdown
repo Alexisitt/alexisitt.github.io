@@ -6,7 +6,8 @@ published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]
---
+---
+
 The government is always harping on about the North South Divide and how their policies will seek to reverse this trend. BUPA, The BBC, the GMC, amongst others, have moved from London to Manchester. Leeds has become the second biggest financial centre in England, after London.HS2, assuming it goes ahead now, will, eventually, connect Birmingham, Leeds, Manchester and other northern cities to each other, as well as to the London metropolis.
 
 It is widely accepted that publishing in the UK is too white, too middle class and too London-centric. So, what are the chances of the big publishing houses moving to these northern cities?
