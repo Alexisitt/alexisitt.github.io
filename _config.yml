@@ -35,7 +35,7 @@ defaults:
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://alexisitt.github.io"   #change this to yours
-title:  A Readers Ruminations
+title:  A Readers Rumination
 description: A refuge for the all the notes, notions and nonsense of a publishing student and avid book lover... and what books I have been reading!  # used by search engines
 
 # SITE-SPECIFIC CONFIGURATION
