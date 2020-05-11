@@ -1,18 +1,19 @@
 ---
 layout: post
-title: Fake News and Coronavirus: Are the Media making it Worse?
+title: Fake News and Coronavirus - Are the Media making it Worse?
 date: 2020-05-09 10:20
 published: true
 header_feature_image:
 caption:
 tags:    # use [tag1,tag2]
 ---
+
 Something that I have noticed with alarming frequency is the amount of ‘news’ that just simply isn’t true. This phenomenon appeared years ago in wake of hugely significant events – The 2016 election of Donald Trump and the 2016 Brexit vote – and, following the immense fallouts for both, has remained in the public sphere ever since. During my time at Brookes as a Publishing student I have only been made more aware of its presence and proliferation and have come to a disturbing realisation – that it is everywhere. Fact and fiction have blurred, giving way to ‘alternative facts’ and what appears to be an overall subjectification of the truth.
 Although normally disguised as legitimate media, or disturbingly, concealed by ‘legitimate’ media companies, fake news has risen to the surface once again in the wake of this global pandemic. Just three days ago, The Washing Post, Brietbart and Townhall, amongst others, reported that CBS had taken medical staff away from their duties at a Medical Center in Michigan and had them pose as patients in their coverage, so as to make circumstances appear dire. This followed a previous incident where the same network CBS used footage from an overwhelmed Italian hospital in a report about New York City Hospitals.
+
 Here in the UK, the misinformation has been equally duplicitous, yet somewhat less blatant. Prior to Lockdown the approach had been not to contain the virus, but to aim for herd immunity. Then came Prof. Neil Ferguson’s epidemiological modelling from Imperial, with his stark warning that 250,000 deaths would occur without lockdown, and the govt. changed tack. Since then, Fergusson has revised his death toll estimate to 25,000!
 Now the papers debate whether he was right or not. What is one to believe when the Telegraph discredits him, but The Guardian says he was correct?
-In May 10th’s  Telegraph  the headline “ Is the chilling truth that the decision to impose lockdown was based on crude mathematical guesswork?” contrasts with
-“UK scientists hit back at attempts to discredit scientific basis for lockdown.” In The Guardian of the same date! It was, after all, The Telegraph that broke the news that he had flouted lockdown rules, leading to his resignation from Sage, Scientific Advisory Group for Emergencies).
+In May 10th’s  Telegraph  the headline “ Is the chilling truth that the decision to impose lockdown was based on crude mathematical guesswork?” contrasts with “UK scientists hit back at attempts to discredit scientific basis for lockdown.” In The Guardian of the same date! It was, after all, The Telegraph that broke the news that he had flouted lockdown rules, leading to his resignation from Sage, Scientific Advisory Group for Emergencies).
 
 There has also been a huge mainstreaming of fringe, far-right and far-left theories, conspiracy theories and ‘scandals’. In a time of immense anxiety people have become far more receptive of the more outlandish claims, perhaps seeking any explanation for a growing number of uncertainties. On the 6th April, these alternative explanations reached their most ludicrous and wholly baffling peak, in the form of the condemnation of 5G. Conspiracy theories suggesting the new technology was somehow responsible for the global pandemic became Facebook groups devoted to uncovering the ‘truth’, whilst self-appointed crusaders armed with a phone abused telecoms workers and proudly posted the evidence on various social media sites. This culminated in over 20 mobile phone masts being set on fire. Madness.
 
