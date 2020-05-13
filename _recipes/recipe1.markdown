@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Moussaka
+title: The Humm Dog with Bacon, Black Truffle and Celery
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,13 +11,13 @@ tags:
   - Hot
 ---
 
-# Moussaka
+# The Humm Dog with Bacon, Black Truffle and Celery
 
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+[![Hummdog](/_uploads/hummdog.18.20.png)](/_uploads/hummdog.18.20.png)
+
+Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary hotdog. Wrapped in bacon, smothered in truffle mayonnaise and topped with Gruyère, this indulgent and unusual take on a family favourite is one for the more courageous chef...but never dissappoints.
 
 <!--more-->
-
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
 
 ## Ingredients
 
