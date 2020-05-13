@@ -15,45 +15,56 @@ tags:
 
 [![Hummdog](/_uploads/hummdog.18.20.png)](/_uploads/hummdog.18.20.png)
 
-Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary hotdog. Wrapped in bacon, smothered in truffle mayonnaise and topped with Gruyère, this indulgent and unusual take on a family favourite is one for the more courageous chef...but never dissappoints.
+Prep Time: 30 Minutes
+Cook Time: 20 Minutes
+Serving Size: 4
+Difficulty: Hard
+
+Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary hotdog. Wrapped in bacon, smothered in truffle mayonnaise and topped with Gruyère, this indulgent and unusual take on a family favourite is one for the more courageous chef...but never disappoints.
 
 <!--more-->
 
 ## Ingredients
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+### Celery Relish
+
+- 5 tablespoons peeled celery root, diced 1/4 inch
+- 4 tablespoons celery, diced 1/4 inch
+- 3 tablespoons half-sour pickles, diced 1/4 inch
+- 1 tablespoon Pickled mustard seeds
+- 1 tablespoon white balsamic vinegar
+- 1 teaspoon black truffle, diced 1/4 inch
+
+### Truffle mayonnaise
+
+- 4 tablespoons mayonnaise
+- 2 teaspoons black truffles, finely chopped
+
+### The Humm Dog
+
+- Canola oil
+- 4 slices bacon
+- 4 hot dogs
+- 4 hot dog buns
+- 4 slices Gruyère
+- Celery heart leaves
 
 
-## Method
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+## Directions
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
+### The Relish
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
+1. Bring a pot of salted water to a boil over high heat and prepare an ice bath. Blanch the celery root in the boiling water until tender, about 5 minutes, and shock in the ice bath. Blanch the celery in the boiling water until tender, about 3 minutes, and shock in the ice bath. When cold, drain the celery root and celery from the ice bath. Transfer the vegetables to paper towels to drain any excess water.
 
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
+2. In a mixing bowl, combine the blanched vegetables with the pickles, pickled mustard seeds, and vinegar and mix well. When ready to plate, fold in the diced black truffle.
 
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
+### The Truffle Mayonnaise
 
-- Serves: 6
-- Preparation time: 1 hour
+1.	Combine the mayonnaise with the truffles in a mixing bowl and fold together with a rubber spatula. Reserve the mayonnaise in an airtight container, refrigerated, for up to 3 days.
+
+### The Humm Dog
+
+1.	Preheat the oven to 175°C/350°F. Line a baking sheet with parchment paper. Heat 7.5 cm (3 inches) of canola oil in a heavy pot over medium heat to 175°C/350°F. Wrap a slice of bacon around each hot dog and use wooden toothpicks to secure it. Fry in the hot oil until the bacon is crisped and the hot dog is heated through, about 3 minutes. Transfer to paper towels to drain. Remove and discard the toothpicks.
+2.	Spread each hot dog bun with truffle mayonnaise. Place a fried hot dog in each bun and top with a slice of Gruyère. Place the hot dogs on the prepared baking sheet and transfer to the oven. Heat the hot dogs just until the cheese is melted, about 2 minutes.
+3.	Remove from the oven and top each with the celery relish. Garnish with celery heart leaves and serve immediately.
