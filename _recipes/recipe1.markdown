@@ -40,7 +40,7 @@ Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary
 - 4 tablespoons mayonnaise
 - 2 teaspoons black truffles, finely chopped
 
-### The Humm Dog
+### Humm Dog
 
 - Canola oil
 - 4 slices bacon
@@ -66,5 +66,7 @@ Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary
 ### The Humm Dog
 
 1.	Preheat the oven to 175°C/350°F. Line a baking sheet with parchment paper. Heat 7.5 cm (3 inches) of canola oil in a heavy pot over medium heat to 175°C/350°F. Wrap a slice of bacon around each hot dog and use wooden toothpicks to secure it. Fry in the hot oil until the bacon is crisped and the hot dog is heated through, about 3 minutes. Transfer to paper towels to drain. Remove and discard the toothpicks.
+
 2.	Spread each hot dog bun with truffle mayonnaise. Place a fried hot dog in each bun and top with a slice of Gruyère. Place the hot dogs on the prepared baking sheet and transfer to the oven. Heat the hot dogs just until the cheese is melted, about 2 minutes.
+
 3.	Remove from the oven and top each with the celery relish. Garnish with celery heart leaves and serve immediately.
