@@ -15,7 +15,12 @@ tags:
 
 [![butteredtoastramen](/_uploads/butteretoastramen.25.13.png)](/_uploads/butteretoastramen.25.13.png)
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Prep Time: 30 Minutes
+Cook Time: 1 hour, 15 minutes
+Serving Size: 8 Bowls
+Difficulty: Easy
+
+Flipping an East Asian classic on its head, this recipe combines the light yet deep flavours of a classic ramen with wonderfully nostalgic notes of buttered toast. Oh, and its loaded with bacon. Yeah, we thought you might be interested.
 
 <!--more-->
 
