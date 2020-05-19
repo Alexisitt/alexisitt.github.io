@@ -1,17 +1,13 @@
 ---
 layout: recipeshome
-title: Recipes
-subtitle: My Recipe Site #optional sub title to the post
+title: The Culinary Contrarian: A look Inside
+subtitle: Some of My Favourites
 permalink: /recipes/
 tags:
 published: true
 hide: false #remove this line when you want your recipe site on the menu
 ---
 
-Here is an introduction to my recipe site
+On this page you will find some of the weird and wonderful recipes that I have brought together to share both on this blog and in a collation of equally bizarre yet utterly delicious recipes entitled The Culinary Contrarian.
 
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For both the book and the individual selection and curation of these recipes, my intention was twofold. I wanted to be able to present unique, sometimes outright weird ingredients in a way that would make them sound irresistible to even the fussiest of food critic.
