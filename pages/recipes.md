@@ -17,9 +17,12 @@ Below I have included some images of some further exciting recipes to try, that 
 
 ## Sea Urchin Guacamole Tacos
 
+_uploads/Tacoimage.jpg
 
-## Nduja Avocado Toast
+ ## Nduja Avocado Toast
 
-
+_uploads/Screen Shot 2020-05-26 at 11.02.57.jpg
 
 ## Everything Bagel Nigiri
+
+_uploads/Screen Shot 2020-05-26 at 11.03.53.jpg
