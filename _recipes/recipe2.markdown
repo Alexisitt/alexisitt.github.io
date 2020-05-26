@@ -13,7 +13,7 @@ tags:
 
 # Buttered-Toast Ramen with Bacon and Eggs
 
-[![butteredtoastramen](/_uploads/butteretoastramen.25.13.png)](/_uploads/butteretoastramen.25.13.png)
+[![butteredtoastramen](_uploads/butteretoastramen.25.13.png)](_uploads/butteretoastramen.25.13.png)
 
 Prep Time: 30 Minutes
 Cook Time: 1 hour, 15 minutes
@@ -66,4 +66,4 @@ Flipping an East Asian classic on its head, this recipe combines the light yet d
 
 5.	Peel them, halve them, and set aside.
 
-6.	Cook the noodles in the boiling water according to the package instructions until al dente. Drain in a colander and run under water to rinse off some starch and cool the noodles. Shake to drain them very well and divide among 8 bowls along with the eggs, bacon, and scallions. Ladle the broth into each bowl, gently agitate the noodles with a fork or chopsticks to keep them from clumping, and finally, enjoy. 
+6.	Cook the noodles in the boiling water according to the package instructions until al dente. Drain in a colander and run under water to rinse off some starch and cool the noodles. Shake to drain them very well and divide among 8 bowls along with the eggs, bacon, and scallions. Ladle the broth into each bowl, gently agitate the noodles with a fork or chopsticks to keep them from clumping, and finally, enjoy.
