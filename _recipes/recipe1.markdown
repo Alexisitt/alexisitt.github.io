@@ -13,16 +13,17 @@ tags:
 
 # The Humm Dog with Bacon, Black Truffle and Celery
 
+
+Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary hotdog. Wrapped in bacon, smothered in truffle mayonnaise and topped with Gruyère, this indulgent and unusual take on a family favourite is one for the more courageous chef...but never disappoints.
+
+<!--more-->
+
 [![Hummdog](/_uploads/hummdog.18.20.png)](/_uploads/hummdog.18.20.png)
 
 Prep Time: 30 Minutes
 Cook Time: 20 Minutes
 Serving Size: 4
 Difficulty: Hard
-
-Inspired by the work of legendary New York chef Daniel Humm, this is no ordinary hotdog. Wrapped in bacon, smothered in truffle mayonnaise and topped with Gruyère, this indulgent and unusual take on a family favourite is one for the more courageous chef...but never disappoints.
-
-<!--more-->
 
 ## Ingredients
 

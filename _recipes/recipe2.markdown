@@ -13,6 +13,10 @@ tags:
 
 # Buttered-Toast Ramen with Bacon and Eggs
 
+Flipping an East Asian classic on its head, this recipe combines the light yet deep flavours of a classic ramen with wonderfully nostalgic notes of buttered toast. Oh, and its loaded with bacon. Yeah, we thought you might be interested.
+
+<!--more-->
+
 [![butteredtoastramen](/_uploads/butteretoastramen.25.13.png)](/_uploads/butteretoastramen.25.13.png)
 
 Prep Time: 30 Minutes
@@ -20,19 +24,16 @@ Cook Time: 1 hour, 15 minutes
 Serving Size: 8 Bowls
 Difficulty: Easy
 
-Flipping an East Asian classic on its head, this recipe combines the light yet deep flavours of a classic ramen with wonderfully nostalgic notes of buttered toast. Oh, and its loaded with bacon. Yeah, we thought you might be interested.
-
-<!--more-->
 
 ## Ingredients
 
-## Broth
+### Broth
 
 - 1 1/2 sticks room temperature unsalted butter
 - 6 slices soft white bread
 - 13 cups Ramen Broth
 
-## Bowls
+### Bowls
 
 - 1/2 pound slab bacon, cut into approximately 1 1/2 - by 1/2 - by 1/4 batons
 - 2 teaspoons coarsely ground black pepper
@@ -44,8 +45,6 @@ Flipping an East Asian classic on its head, this recipe combines the light yet d
 
 
 ## Directions
-
-
 
 ### The Broth
 
