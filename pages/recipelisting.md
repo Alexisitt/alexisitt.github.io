@@ -3,5 +3,5 @@ layout: recipelist
 title: My Recipes
 permalink: /recipelist/
 published: true
-hide: false
+hide: true
 ---

@@ -13,7 +13,7 @@ tags:
 
 # The Humm Dog with Bacon, Black Truffle and Celery
 
-[![Hummdog](_uploads/hummdog.18.20.png)](_uploads/hummdog.18.20.png)
+[![Hummdog](/_uploads/hummdog.18.20.png)](/_uploads/hummdog.18.20.png)
 
 Prep Time: 30 Minutes
 Cook Time: 20 Minutes

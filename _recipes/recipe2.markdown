@@ -13,7 +13,7 @@ tags:
 
 # Buttered-Toast Ramen with Bacon and Eggs
 
-[![butteredtoastramen](_uploads/butteretoastramen.25.13.png)](_uploads/butteretoastramen.25.13.png)
+[![butteredtoastramen](/_uploads/butteretoastramen.25.13.png)](/_uploads/butteretoastramen.25.13.png)
 
 Prep Time: 30 Minutes
 Cook Time: 1 hour, 15 minutes
