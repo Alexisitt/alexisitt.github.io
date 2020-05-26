@@ -5,7 +5,7 @@ subtitle: Some of My Favourites
 permalink: /recipes/
 tags:
 published: true
-hide: false #remove this line when you want your recipe site on the menu
+#remove this line when you want your recipe site on the menu
 ---
 
 On this page you will find some of the weird and wonderful recipes that I have brought together to share both on this blog and in a collation of equally bizarre yet utterly delicious recipes entitled The Culinary Contrarian.
