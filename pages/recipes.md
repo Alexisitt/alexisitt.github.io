@@ -15,5 +15,3 @@ For both the book and the individual selection and curation of these recipes, my
 Below I have included some images of some further exciting recipes to try!
 
 ## Sea Urchin Guacamole Tacos
-
-_uploads/Tacoimage.png
