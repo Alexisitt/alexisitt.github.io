@@ -9,20 +9,8 @@ published: true
 ---
 # Some of My Favourites...
 
-On this page you will find some of the weird and wonderful recipes that I have brought together to share both on this blog and in a collation of equally bizarre yet utterly delicious recipes entitled The Culinary Contrarian.
+On this site you will find some of the weird and wonderful recipes that I have brought together to share both on this blog and in a collation of equally bizarre yet utterly delicious recipes entitled The Culinary Contrarian.
 
 For both the book and the individual selection and curation of these recipes, my intention was twofold. I wanted to be able to present unique, sometimes outright weird ingredients in a way that would make them sound irresistible to even the fussiest of food critic.
 
-Below I have included some images of some further exciting recipes to try, that I am particularly fond of!
-
-## Sea Urchin Guacamole Tacos
-
-_uploads/Tacoimage.jpg
-
- ## Nduja Avocado Toast
-
-_uploads/Screen Shot 2020-05-26 at 11.02.57.jpg
-
-## Everything Bagel Nigiri
-
-_uploads/Screen Shot 2020-05-26 at 11.03.53.jpg
+Click the image to the right to see the recipes in this collection.
